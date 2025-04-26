@@ -1,4 +1,4 @@
-# 📝 ToDo App - Some Company Assignment
+# 📝 ToDo App - Assignment
 
 This project is a basic **ToDo App** built with:
 - **Backend:** Node.js, Express.js, Redis, MQTT
@@ -67,9 +67,9 @@ cd frontend
 npm start
 ```
 ## 🚀 Deployment
-- Backend: Render()
+- Backend: [Render](https://todo-backend-yvqc.onrender.com/fetchAllTasks)
 
-- Frontend: Netlify
+- Frontend: [Netlify](https://noteapp-mqtt-ak.netlify.app/)
 
 ## 🔮 Future Work
 - Add User Authentication (Login/Signup)
